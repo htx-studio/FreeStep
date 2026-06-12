@@ -4,9 +4,9 @@
 
 ![FreeStep](Images/FreeStep_close.jpg)
 
-视频参考：[为了帮粉丝走路，我们做了这个...](https://www.bilibili.com)
+视频参考：[为了帮粉丝走路，我们做了这个...](https://www.bilibili.com/video/BV17TEC6AE3Z/)
 
-本仓库仅模型文件
+这个模型希望可以帮助到你
 
 ---
 
